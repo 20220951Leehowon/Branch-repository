@@ -1,0 +1,13 @@
+def std_weight(height, gender):
+    if gender == "male":
+	weight = height * height * 22
+    return weight
+
+#include <iostream>
+#include <algorithm>
+using namespace std;
+
+int main()
+{
+    cout << "Enter the num: " << endl;
+}
