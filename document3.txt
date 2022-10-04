@@ -1,4 +1,4 @@
-def std_weight(height, gender):
+def standard_weight(height, gender):
     if gender == "male":
 	weight = height * height * 22
     return weight
